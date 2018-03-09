@@ -1,13 +1,44 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2024
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecyclerViewForms.Android", "RecyclerViewForms\RecyclerViewForms.Android\RecyclerViewForms.Android.csproj", "{DE4FF57A-BE9B-4BDA-BF4D-35374D2BB5F0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecyclerViewForms.iOS", "RecyclerViewForms\RecyclerViewForms.iOS\RecyclerViewForms.iOS.csproj", "{AF51F623-D927-4BD4-964D-A9072D742C6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecyclerViewForms", "RecyclerViewForms\RecyclerViewForms\RecyclerViewForms.csproj", "{31787E9D-0FF1-4707-A64C-89948D2FDBB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecyclerViewForms", "RecyclerViewForms\RecyclerViewForms\RecyclerViewForms.csproj", "{31787E9D-0FF1-4707-A64C-89948D2FDBB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HowToUseStepByStep", "HowToUseStepByStep", "{2C1FC067-5A9B-4CCD-ADAA-1D21999667BF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\XampSharp\ReciclerView\Resources\file.png = ..\..\..\XampSharp\ReciclerView\Resources\file.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen1.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen1.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen10.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen10.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen11.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen11.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen12.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen12.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen13.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen13.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen14.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen14.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen15.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen15.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen16.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen16.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen17.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen17.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen18.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen18.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen19.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen19.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen2.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen2.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen20.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen20.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen21.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen21.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen22.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen22.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen23.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen23.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen24.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen24.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen25.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen25.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen26.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen26.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen4.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen4.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen5.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen5.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen6.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen6.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen7.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen7.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen8.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen8.png
+		..\..\..\XampSharp\ReciclerView\Resources\Imagen9.png = ..\..\..\XampSharp\ReciclerView\Resources\Imagen9.png
+		..\..\..\XampSharp\ReciclerView\Resources\Screenshot_2018-02-15-22-02-47.png = ..\..\..\XampSharp\ReciclerView\Resources\Screenshot_2018-02-15-22-02-47.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
